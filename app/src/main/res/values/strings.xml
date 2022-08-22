@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HaVagas</string>
+    <string name="ha_vagas">Ha Vagas</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="emailLayout">usuario@email.com</string>
+    <string name="receberEmailCheckBox">Deseja receber emails de atualizacoes e oportunidades</string>
+    <string name="telefone">Telefone</string>
+    <string name="residencial">Residencial</string>
+    <string name="comercial">Comercial</string>
+    <string name="telefoneLayout">(11) 12345–6789</string>
+    <string name="adicionar_celular">Adicionar celular</string>
+    <string name="celularLayout">+55 (11) 12345–6789</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="formacao">Formacao</string>
+    <string-array name="formacao">
+        <item>fundamental</item>
+        <item>medio</item>
+        <item>graduacao</item>
+        <item>especializacao</item>
+        <item>mestrado</item>
+        <item>doutorado</item>
+    </string-array>
+    <string name="ano_de_formatura">Ano de formatura</string>
+    <string name="dataLayout">21/08/2022</string>
+    <string name="ano_de_conclusao">Ano de conclusao</string>
+    <string name="nome_da_instituicao">Nome da instituicao</string>
+    <string name="titulo_da_monografia">Titulo da monografia</string>
+    <string name="nome_do_orientador">Nome do orientador</string>
+    <string name="vagas_de_interesse">Vagas de interesse</string>
+    <string name="analista_de_sistemas">Analista de sistemas</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+</resources>
