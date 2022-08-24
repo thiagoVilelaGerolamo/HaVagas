@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".Activities.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -181,14 +181,14 @@
             android:orientation="vertical"
             android:visibility="gone">
             <TextView
-                android:id="@+id/FunadamentalFormaturaTv"
+                android:id="@+id/fundamentalFormaturaTv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="5dp"
                 android:padding="5dp"
                 android:text="@string/ano_de_formatura" />
             <EditText
-                android:id="@+id/FunadamentalFormaturaEt"
+                android:id="@+id/fundamentalFormaturaEt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="date"
@@ -347,7 +347,8 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:layout_margin="5dp"
-            android:padding="5dp" >
+            android:padding="5dp"
+            android:onClick="onClick">
             <Button
                 android:id="@+id/limparBt"
                 android:layout_width="match_parent"
